@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wp-5-3", "wp-5-3\wp-5-3.vcproj", "{D1B33161-42A7-46BD-9A01-145D8D4CA745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B33161-42A7-46BD-9A01-145D8D4CA745}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1B33161-42A7-46BD-9A01-145D8D4CA745}.Debug|Win32.Build.0 = Debug|Win32
+		{D1B33161-42A7-46BD-9A01-145D8D4CA745}.Release|Win32.ActiveCfg = Release|Win32
+		{D1B33161-42A7-46BD-9A01-145D8D4CA745}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wy_T6_ktlz_2", "wy_T6_ktlz_2\wy_T6_ktlz_2.vcproj", "{AD912723-7B86-4758-A8CA-E4DD31B9FDB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD912723-7B86-4758-A8CA-E4DD31B9FDB0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD912723-7B86-4758-A8CA-E4DD31B9FDB0}.Debug|Win32.Build.0 = Debug|Win32
+		{AD912723-7B86-4758-A8CA-E4DD31B9FDB0}.Release|Win32.ActiveCfg = Release|Win32
+		{AD912723-7B86-4758-A8CA-E4DD31B9FDB0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
